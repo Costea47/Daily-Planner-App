@@ -41,7 +41,7 @@ N/A
 The following image shows the challange appearance and functionality:
 
 
-![Application Screenshot](/images/screenshot.png)
+![Application Screenshot](assets/images/screenshot.png)
 
 
 ## Deployment
